@@ -1,0 +1,9 @@
+# My
+*.tmp
+*.bak
+*.log
+
+# Python
+.venv
+__pycache__
+*.pyc
